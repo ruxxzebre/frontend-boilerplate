@@ -1,7 +1,7 @@
 {
-  "name": "didactic-spork",
+  "name": "frontend",
   "version": "1.0.0",
-  "description": "JSON formatter for production purposes.",
+  "description": "frontend",
   "main": "index.js",
   "keywords": [
     "json",
