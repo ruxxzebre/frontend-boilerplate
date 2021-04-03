@@ -1,4 +1,5 @@
 src/__tests__
 dist
+out
 node_modules
 docdash
